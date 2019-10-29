@@ -1,0 +1,11 @@
+C:\Users\jbenk\Desktop\bootcamp2019\CapstoneTaskList\bin\Debug\netcoreapp3.0\CapstoneTaskList.exe
+C:\Users\jbenk\Desktop\bootcamp2019\CapstoneTaskList\bin\Debug\netcoreapp3.0\CapstoneTaskList.deps.json
+C:\Users\jbenk\Desktop\bootcamp2019\CapstoneTaskList\bin\Debug\netcoreapp3.0\CapstoneTaskList.runtimeconfig.json
+C:\Users\jbenk\Desktop\bootcamp2019\CapstoneTaskList\bin\Debug\netcoreapp3.0\CapstoneTaskList.runtimeconfig.dev.json
+C:\Users\jbenk\Desktop\bootcamp2019\CapstoneTaskList\bin\Debug\netcoreapp3.0\CapstoneTaskList.dll
+C:\Users\jbenk\Desktop\bootcamp2019\CapstoneTaskList\bin\Debug\netcoreapp3.0\CapstoneTaskList.pdb
+C:\Users\jbenk\Desktop\bootcamp2019\CapstoneTaskList\obj\Debug\netcoreapp3.0\CapstoneTaskList.csprojAssemblyReference.cache
+C:\Users\jbenk\Desktop\bootcamp2019\CapstoneTaskList\obj\Debug\netcoreapp3.0\CapstoneTaskList.AssemblyInfoInputs.cache
+C:\Users\jbenk\Desktop\bootcamp2019\CapstoneTaskList\obj\Debug\netcoreapp3.0\CapstoneTaskList.AssemblyInfo.cs
+C:\Users\jbenk\Desktop\bootcamp2019\CapstoneTaskList\obj\Debug\netcoreapp3.0\CapstoneTaskList.dll
+C:\Users\jbenk\Desktop\bootcamp2019\CapstoneTaskList\obj\Debug\netcoreapp3.0\CapstoneTaskList.pdb
